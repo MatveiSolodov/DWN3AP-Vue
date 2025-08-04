@@ -31,7 +31,7 @@
                 </RouterLink>
             </v-list>
         </v-navigation-drawer>
-        <v-main class="pa-4 mt-12">
+        <v-main class="pa-4 mt-12 mb-16">
             <RouterView></RouterView>
         </v-main>
         <v-footer app color="primary" dark>
